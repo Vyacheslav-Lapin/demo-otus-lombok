@@ -1,5 +1,5 @@
-spring:
-  security:
-    user:
-      name: user
-      password: qwerty
+#spring:
+#  security:
+#    user:
+#      name: user
+#      password: qwerty
